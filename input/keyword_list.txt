@@ -1,0 +1,4 @@
+covid*
+"Marcelo Rebelo de Sousa" OR "presidente da República"
+OE OR "Orçamento de Estado"
+("Sport Lisboa e Benfica" OR SLB) AND ("Sporting Clube de Portugal" OR SCP)
