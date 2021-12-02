@@ -2,6 +2,12 @@
 
 A Python endpoint to query the Mediacloud API service directly from the command line. Designed for mapping coverage of geographical collections efficiently. 
 
+The idea is to have a practical CLI utility to replace manual insertion in the browser like the image below:
+
+<img src="mc_query.png"></img>
+
+## Usage
+
 Configure your Mediacloud API private key in a file called **confi.ini** (you may copy it from the *config.ini.sample*).
 
 The module usage is described below:
@@ -38,5 +44,3 @@ pipenv run python merger.py
 ```
 
 And check results in the **merged** folder.
-
-<img src="mc_query.png"></img>
