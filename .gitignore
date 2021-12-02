@@ -1,3 +1,5 @@
 config.ini
 output/*
+!output/.gitkeep
 merged/*
+!merged/.gitkeep
