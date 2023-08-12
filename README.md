@@ -1,10 +1,20 @@
 # mediacloudAPI_endpoint
 
-A Python endpoint to query the Mediacloud API service directly from the command line. Designed for mapping coverage of geographical collections efficiently. 
+A Python tool to query the Mediacloud API service directly from the command line. Designed for mapping coverage of geographical collections efficiently. 
 
 The idea is to have a practical CLI utility to replace manual insertion in the browser like the image below:
 
 <img src="mc_query.png"></img>
+
+## Installation and set up
+
+Git and Python (you can change the version in Pipfile) instalation is assumed. To set up run:
+
+```
+git clone git@github.com:marquesafonso/mediacloudAPI_endpoint.git
+pip install pipenv
+pipenv install
+```
 
 ## Usage
 
